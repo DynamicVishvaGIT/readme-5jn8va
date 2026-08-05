@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DynamicVishvaGIT.github.io/readme-5jn8va/sitemap.xml
